@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'nonakas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_478493019C494B33969C12A277C0AE85 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB59A542E63549E2ADAB5CC3B7CB2F7C }}
           package: '*.jar'
